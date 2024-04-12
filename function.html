@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>ACME Laundry Dryer Disassembly Guide</title>
+</head>
+
+<body>
+    <h1>ACME Laundry Dryer Disassembly Guide</h1>
+    <p>This program tells you how to disassemble an ACME laundry dryer. There are 4 steps in the process.</p>
+    <button onclick="startGuide()">Start Guide</button>
+
+    <script>
+        function startup_message() {
+            document.write('<p>Step 1: Unplug the dryer and move it away from the wall.</p>');
+        }
+
+        function step1() {
+            document.write('<p>Step 2: Remove the six screws from the back of the dryer.</p>');
+        }
+
+        function step2() {
+            document.write('<p>Step 3: Remove the back panel from the dryer.</p>');
+        }
+
+        function step3() {
+            document.write('<p>Step 4: Pull the top of the dryer straight up.</p>');
+        }
+
+        function startGuide() {
+            startup_message();
+            setTimeout(step1, 1000);
+            setTimeout(step2, 2000);
+            setTimeout(step3, 3000);
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gross Pay Calculator</title>
+</head>
+<body>
+    <h1>Gross Pay Calculator</h1>
+    <form id="payForm">
+        <label for="hours">Enter the number of hours worked:</label>
+        <input type="number" id="hours" step="0.01" required><br>
+
+        <label for="payRate">Enter the hourly pay rate:</label>
+        <input type="number" id="payRate" step="0.01" required><br>
+
+        <button type="button" onclick="calculateGrossPay()">Calculate Gross Pay</button>
+    </form>
+
+    <p id="grossPayResult"></p>
+
+    <script>
+        const BASE_HOURS = 40;
+        const OT_MULTIPLIER = 1.5;
+
+        function calculateGrossPay() {
+            var hours = parseFloat(document.getElementById("hours").value);
+            var payRate = parseFloat(document.getElementById("payRate").value);
+            var grossPay;
+
+            if (hours > BASE_HOURS) {
+                var overtimeHours = hours - BASE_HOURS;
+                var overtimePay = overtimeHours * payRate * OT_MULTIPLIER;
+                grossPay = (BASE_HOURS * payRate) + overtimePay;
+            } else {
+                grossPay = hours * payRate;
+            }
+
+            document.getElementById("grossPayResult").innerHTML = "The gross pay is $" + grossPay.toFixed(2);
+        }
+    </script>
+</body>
+</html>
