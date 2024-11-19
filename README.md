@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @engoti
 - 👀 I’m interested in all programming languages
 - 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ALL Programming Languages!
 - 📫 How to reach me https://www.instagram.com/samuelotieno2024/#
 - 😄 Pronouns: Him
 - ⚡ Fun fact: Open to learning everything About Life
