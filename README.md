@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @engoti
-- 👀 I’m interested in all programming languages
+- 👀 I’m interested in all Programming languages
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on ALL Programming Languages!
 - 📫 How to reach me https://www.instagram.com/samuelotieno2024/#
