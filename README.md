@@ -1,1 +1,2 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,py)](https://skillicons.dev)
+My Proficiencies
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,go,dart,flutter,matlab,mysql,visualstudio,bots,php,autocad,bash)](https://skillicons.dev)
