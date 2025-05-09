@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @engoti
-- 👀 I’m interested in all Programming languages
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on ALL Programming Languages!
-- 📫 How to reach me https://www.instagram.com/samuelotieno2024/#
-- 😄 Pronouns: Him
-- ⚡ Fun fact: Open to learning everything About Life
+My Languages!!
+
+<img src="./icons/Matlab-Dark.svg" width="48">
 
 <!---
 engoti/engoti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
