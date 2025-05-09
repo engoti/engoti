@@ -1,6 +1,6 @@
 My Languages!!
 
-<img src="./icons/Matlab-Dark.svg" width="32">
+<img src="https://raw.githubusercontent.com/engoti/engoti/main/icons/Matlab-Dark.svg" width="32">
 
 
 <!---
